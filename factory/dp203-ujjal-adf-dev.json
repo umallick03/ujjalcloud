@@ -1,0 +1,9 @@
+{
+	"name": "dp203-ujjal-adf-dev",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a91d89d8-488b-4d87-974c-39dac27493cf",
+		"tenantId": "1cdc2bc4-7ab7-4bf1-ab4d-3f52d49b8f1e"
+	}
+}
